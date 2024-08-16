@@ -24,7 +24,7 @@ Projeta-se no Cosmos.<br>
 _Cora Coralina_
 
 ## 🚀 Resultados
-[Aqui]() você encontra o vídeo produzido
+[Aqui](https://github.com/fernandosserra/lab-natty-or-not/blob/main/Criacao_De_Cora_Coralina.mp4) você encontra o vídeo produzido
 
 ## 💭 Reflexão (Opcional)
 Foi um processo bem difícil e confesso que, um pouco trabalhoso. Eu tenho um olhar bem crítico para as IA's e não gostei exatamente do resultado que obtive, entretanto, acho que de forma gratuita, este é o melhor que posso atingir no momento.
