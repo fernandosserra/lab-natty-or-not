@@ -1,51 +1,33 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criação, de Cora Coralina
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto foi criado para o Lab Natty or Not da [DIO](https://www.dio.me/)
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para pesquisa e busca do poema, utilizei o [Chat GPT](https://chatgpt.com/) da [OpenAI](https://openai.com/)
+Para a criação do Avatar e vídeo, utilizei o período de teste gratuito da [D-ID](https://studio.d-id.com/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Tentei criar várias coisas, inclusive um podcast, um ebook, mas não estava encontrando o tom certo. O vídeo foi o que mais me agradou. Usei o Chat GPT, fiz algumas perguntas e por fim, lembrei desse poema de Cora Coralina, que simboliza bastante, o que a IA representa neste processo:
+
+### Considerações de Aninha:
+Melhor do que a criatura,<br>
+fez o criador a criação.<br>
+A criatura é limitada.<br>
+O tempo, o espaço,<br>
+normas e costumes.<br>
+Erros e acertos.<br>
+A criação é ilimitada.<br>
+Excede o tempo e o meio.<br>
+Projeta-se no Cosmos.<br>
+
+_Cora Coralina_
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Aqui]() você encontra o vídeo produzido
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi um processo bem difícil e confesso que, um pouco trabalhoso. Eu tenho um olhar bem crítico para as IA's e não gostei exatamente do resultado que obtive, entretanto, acho que de forma gratuita, este é o melhor que posso atingir no momento.
 
-### Exemplos e Insigths
+Pretendo desenvolver mais estes conceitos quando minha situação financeira melhorar um pouco e eu puder pagar pela assinatura de alguns recursos, mas por hora, considero que o resultado está aceitável.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
